@@ -30,7 +30,7 @@
 | **2. Añadir a Gabriel como usuario gestor.** | Ernesto y Cindy |
 | *Descripción: Una vez activa la cuenta, configurar el acceso para Gabriel.* | |
 | **3. Definir y transferir el capital inicial.** | Ernesto y Cindy |
-| *Descripción: Decidir el monto a invertir, considerando mantener una reserva de efectivo de 15-20k€.* | |
+| *Descripción: Decidir el monto a invertir, considerando mantener una reserva de efectivo de 4 meses de gases a 3500 eu al mes = 14,000* | |
 | **4. Redactar acuerdo simple de comisiones.** | Gabriel y Ernesto |
 | *Descripción: Crear un borrador con los términos de la comisión de Gabriel para que todos lo tengan claro.* | |
 | **5. Investigar figura jurídica (a futuro).** | Gabriel |
@@ -51,14 +51,18 @@ Esta sección presenta los escenarios discutidos para la inversión inicial y la
 
 *   **Con 70,000 € de capital:**
     *   Rendimiento mensual promedio: **~2,042 €**
+    *   *Fórmula: (70,000 € * 0.35) / 12 meses*
 *   **Con 40,000 € de capital (escenario alternativo):**
     *   Rendimiento mensual promedio: **~1,167 €**
+    *   *Fórmula: (40,000 € * 0.35) / 12 meses*
 
 **Proyección de Capital Necesario para Objetivos de Ingresos (Supuesto del 35% anual)**
 
 *   **Para generar 4,000 € al mes:**
     *   Se necesitaría un capital de **~137,143 €**.
+    *   *Fórmula: (4,000 €/mes * 12 meses) / 0.35*
 *   **Para generar 8,000 € al mes:**
     *   Se necesitaría un capital de **~274,286 €**.
+    *   *Fórmula: (8,000 €/mes * 12 meses) / 0.35*
 
 *Nota: Todas las proyecciones de esta sección son un promedio y se basan en un rendimiento supuesto. El rendimiento real puede variar.*
