@@ -12,6 +12,7 @@
 *   **Estructura de Cuentas Acordada:**
     *   **Ernesto y Cindy:** Abrirán una cuenta de inversión conjunta en Interactive Brokers. Se le dará acceso a Gabriel como gestor para que opere en la cuenta.
     *   **Enza Lazio:** Continuará con su cuenta individual actual, también gestionada por Gabriel.
+        *   *(Nota: El portafolio de Enza se distribuye en aproximadamente 90,000 $ en índices y bonos, y 60,000 $ en una cuenta para operaciones con acciones, opciones y margen).*
 *   **Modelo de Comisión para el Gestor (Gabriel):**
     *   Se acuerda un modelo de comisiones basado en el rendimiento que exceda al S&P 500.
     *   Se definirá una cuota operativa para gastos de gestión.
@@ -35,34 +36,63 @@
 | *Descripción: Crear un borrador con los términos de la comisión de Gabriel para que todos lo tengan claro.* | |
 | **5. Investigar figura jurídica (a futuro).** | Gabriel |
 | *Descripción: Investigar de manera preliminar los requisitos para una estructura legal formal para el fondo.* | |
+| **6. Definir proceso de grabación y transcripción.** | Gabriel y Ernesto |
+| *Descripción: Establecer el formato, la herramienta y la frecuencia para las grabaciones semanales de Gabriel.* | |
 
-**3. Escenarios y Proyecciones**
+**3. Decisiones de Inversión y Proyecciones (Ernesto y Cindy)**
 
-Esta sección presenta los escenarios discutidos para la inversión inicial y las proyecciones de rendimiento basadas en un supuesto del 35% anual.
+Esta sección detalla la distribución de capital acordada y las proyecciones de rendimiento actualizadas.
 
-**Escenario de Inversión Inicial (Ernesto y Cindy)**
+**Distribución de Capital**
 
-*   **Capital Total:** 84,000 €
-*   **Reserva de Emergencia (4 meses):** 14,000 € (3,500 €/mes * 4)
-    *   *Esta cantidad permanecerá en MyInvestor, con un 70% (9,800 €) en oro y un 30% (4,200 €) en efectivo.*
-*   **Capital para Invertir en Interactive Brokers:** **70,000 €**
+*   **Capital Total Asignado:** 80,000 €
 
-**Proyección de Rendimiento Mensual por Capital Invertido (Supuesto del 35% anual)**
+*   **Cuenta en Interactive Brokers:** **50,000 €**
+    *   *Cuenta de opciones y margen gestionada por Gabriel.*
 
-*   **Con 70,000 € de capital:**
-    *   Rendimiento mensual promedio: **~2,042 €**
-    *   *Fórmula: (70,000 € * 0.35) / 12 meses*
-*   **Con 40,000 € de capital (escenario alternativo):**
-    *   Rendimiento mensual promedio: **~1,167 €**
-    *   *Fórmula: (40,000 € * 0.35) / 12 meses*
+*   **Cuenta en MyInvestor:** **30,000 €**, distribuidos de la siguiente manera:
+    *   **Reserva (Cash/Oro):** 14,000 €
+    *   **Índice Mundial (sin EE.UU.):** 4,000 € (en un ETF)
+    *   **S&P 500:** 12,000 € (de Vanguard)
 
-**Proyección de Capital Necesario para Objetivos de Ingresos (Supuesto del 35% anual)**
+**Proyección de Rendimiento Mensual (Capital en Interactive Brokers)**
 
-*   **Para generar 4,000 € al mes:**
-    *   Se necesitaría un capital de **~137,143 €**.
-    *   *Fórmula: (4,000 €/mes * 12 meses) / 0.35*
-*   **Para generar 8,000 € al mes:**
-    *   Se necesitaría un capital de **~274,286 €**.
-    *   *Fórmula: (8,000 €/mes * 12 meses) / 0.35*
+*   **Capital gestionado:** 50,000 €
+*   **Supuesto de rendimiento anual:** 35%
+*   **Rendimiento mensual promedio:** **~1,458 €**
+    *   *Fórmula: (50,000 € * 0.35) / 12 meses*
 
-*Nota: Todas las proyecciones de esta sección son un promedio y se basan en un rendimiento supuesto. El rendimiento real puede variar.*
+**Proyección de Crecimiento con Reinversión (Interés Compuesto)**
+
+Este escenario asume que los rendimientos mensuales del capital en Interactive Brokers no se retiran y se reinvierten.
+
+*   **Capital Inicial:** 50,000 €
+*   **Aumento a los 6 meses:**
+    *   El capital aumentaría en **~9,385 €**, alcanzando un total de **~59,385 €**.
+    *   *Fórmula: 50,000 € * (1 + 0.35 / 12)^6*
+*   **Aumento a los 12 meses:**
+    *   El capital aumentaría en **~20,650 €**, alcanzando un total de **~70,650 €**.
+    *   *Fórmula: 50,000 € * (1 + 0.35 / 12)^12*
+
+*Nota: Todas las proyecciones de esta sección son un promedio y se basan en un rendimiento supuesto para el capital gestionado activamente. El rendimiento real puede variar.*
+
+**4. Creación de Base de Conocimiento y Propiedad Intelectual**
+
+Se acuerda la creación de una base de conocimiento a partir de la experiencia y decisiones de Gabriel como gestor del fondo.
+
+*   **Proceso:**
+    *   **Grabación Semanal:** Gabriel se compromete a grabar un audio semanal (mínimo) donde explicará las decisiones de inversión tomadas, su criterio y su análisis del mercado.
+    *   **Transcripción:** Estos audios serán transcritos para facilitar su análisis y uso.
+*   **Objetivos a Medio/Largo Plazo (6-12 meses):**
+    *   **Base de Conocimiento:** Crear un archivo estructurado con la filosofía y estrategia de inversión.
+    *   **Soporte con IA:** Utilizar este conocimiento para entrenar agentes de IA que puedan asistir a Gabriel en la toma de decisiones y análisis.
+    *   **Propiedad Intelectual:** Generar material para la posible redacción de un libro y establecer por escrito las reglas y principios del método de inversión.
+
+**Desarrollo de Herramientas de Trading (Bots) por Cindy**
+
+*   **Implicación de Cindy:** Cindy dedicará 2-3 horas semanales para estudiar el portafolio y colaborar con Gabriel para entender la estrategia.
+*   **Objetivo:** Como programadora, Cindy explorará la creación de "robots" (bots de trading).
+*   **Estrategia de los Bots:**
+    *   Se enfocarán en operaciones a **corto plazo**.
+    *   Tendrán objetivos de ganancias diarias (ej. 100 €/día).
+*   **Sinergia:** Esta iniciativa complementa la creación de la base de conocimiento, permitiendo automatizar y probar estrategias específicas.
