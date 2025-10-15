@@ -1,3 +1,7 @@
+Esta propuesta se está re-evaluando para que el piso sea con respecto a lo que el sp 500 haga hecho ese año y hasta el momento, y que estoy a espera de otra propuesta por parte de gabriel.
+
+---
+
 **PROPUESTA DE INCENTIVOS ( FIJO Y VARIABLE) POR GESTION DE CARTERA**
 
 **1. Tasa Mínima de Referencia (piso)**
@@ -10,7 +14,7 @@ del 11,3% y la sugerencia es que el **piso mínimo (TMR) sea del 12%.**
 
 Ejemplo:
 
-Piso = 12% anual neto sobre capital invertido.\
+Piso = 12% anual neto sobre capital invertido.
 Si el fondo gana menos de eso, solo se cobrará la comisión fija de
 gestión
 
@@ -19,7 +23,7 @@ gestión
 El porcentaje de comisión variable será del 20% y solo se pagará si la
 rentabilidad o ganancia supera la tasa mínima de referencia:
 
-**Comisión = (Rentabilidad -- Tasa Mínima de Referencia) \* 20%**
+**Comisión = (Rentabilidad -- Tasa Mínima de Referencia) * 20%**
 
 **Ejemplo práctico:**
 
@@ -45,9 +49,9 @@ segundo año.
 Para proteger a los inversionistas:
 
 -   Solo se cobrará performance si el fondo supera su **máximo histórico
-    de valor liquidativo (NAV)**. El NAV es el valor neto que se
-    obtendría si se decidiera cerrar todas las operaciones abiertas
-    descontando deudas y el uso del margen.
+de valor liquidativo (NAV)**. El NAV es el valor neto que se
+obtendría si se decidiera cerrar todas las operaciones abiertas
+descontando deudas y el uso del margen.
 
 -   De esta manera se evita cobrar doble tras una caída y recuperación.
 
@@ -69,7 +73,6 @@ individuales.
 **6. Modelo visual resumido**
 
 **Comisión = comisión fija + comisión variable progresiva sobre
-rentabilidad \> piso, con high-water mark.**
+rentabilidad > piso, con high-water mark.**
 
-Según el ejemplo anterior la comisión total seria \$500 + \$2.800 =
-\$3.300
+Según el ejemplo anterior la comisión total seria \$500 + \$2.800 = \n3.300

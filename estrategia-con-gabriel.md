@@ -51,7 +51,9 @@ Esta sección detalla la distribución de capital acordada y las proyecciones de
     *   *Cuenta de opciones y margen gestionada por Gabriel.*
 
 *   **Cuenta en MyInvestor:** **30,000 €**, distribuidos de la siguiente manera:
-    *   **Reserva (Cash/Oro):** 14,000 €
+    *   **Reserva (Cash/Oro):** 14,000 € ()
+        * DONE: 10k en Oro => casi 3 meses - 14/10/2025
+        * 3800 que queda en la cuenta + 3200 ultimo sueldo de cindy => 7k Poco mas de 2 meses 
     *   **Índice Mundial (sin EE.UU.):** 4,000 € (en un ETF)
     *   **S&P 500:** 12,000 € (de Vanguard)
 
